@@ -6,7 +6,7 @@ import keyboard
 import pyautogui
 import pytesseract
 from PIL import Image
-# part of the screen
+
 achar = False
 lig = True
 
